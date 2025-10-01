@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Deepak V
 
-<!--
-**Deepak-v-git/Deepak-v-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | 📊 Aspiring Data Analyst / Business Analyst | 🤖 AI & BI Tools Enthusiast
 
-Here are some ideas to get you started:
+🔹 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about Data Analytics, AI, and Business Intelligence
+
+📊 Skilled in Python, SQL, Excel, Power BI, Tableau
+
+🤝 Interested in Data-Driven Decision Making and AI-powered solutions
+
+🌱 Currently enhancing skills in Machine Learning & Generative AI
+
+🔍 Actively looking for Internship & Entry-Level Roles in Data Analytics / Business Analysis
+
+🔹 Tech & Tools
+
+Languages: Python, SQL
+
+Data & Visualization: Excel, Power BI, Tableau, Pandas, NumPy, Matplotlib
+
+AI & ML: Scikit-learn, TensorFlow, Keras, NLP
+
+Other: Git, Jupyter Notebook
+
+🔹 Featured Projects
+
+📌 DeepFake Detection AI
+ – Deep learning approach to detect and prevent manipulated media.
+📌 GAN CIFAR10 Image Generation
+ – Generative AI project to synthesize images.
+📌 Women’s Clothing Prediction
+ – Predicting customer ratings using ML & NLP.
+📌 Data Science Projects
+ – Collection of EDA, ML models, and visualizations.
+
+🔹 Connect With Me
+
+🌐 [LinkedIn](https://www.linkedin.com/in/deepakvelladath/)
+
+📧 Email: deepaksivadas131@gmail.com
+
+✨ “Turning data into insights, and insights into impact.”
